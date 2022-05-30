@@ -1,4 +1,9 @@
 {
-    "t1": "t1.nii.gz",
-    "outres": "1 1 1"
+    "parc": "testdata/parc.nii.gz",
+    "bedpostX": "testdata/bedpostx",
+    "nsteps": 5000,
+    "steplength": 0.193,
+    "nsamples": 5181
+    "cthr": 0.2,
+    "fibthresh": 0.01
 }
